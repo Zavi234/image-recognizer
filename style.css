@@ -1,0 +1,18 @@
+body
+{
+    background-color: cyan;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 25px;
+}
+
+#camera
+{
+    border: 2px ridge red;
+    height: 300px;
+    width: 400px;
+    box-shadow: 20px 20px 40px white;
+}
